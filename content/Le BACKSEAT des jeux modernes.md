@@ -1,5 +1,5 @@
 +++
-title = "Le BACKSEAT des jeux modernes"
+title = "Le backseat des jeux modernes"
 description = "A brief description of a custom Shortcode for Zola that implements loading and displaying external data."
 date = 2023-05-02T00:00:00Z
 draft = false
