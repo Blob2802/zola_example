@@ -14,7 +14,7 @@ toc = true
 
 +++
 
-![Le logo de SIBIL](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png"Logo de SIBIL")
+![Le logo de SIBIL](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png "Logo de PMC")
 ***
 | Syntax      | Description | Titre  |
 | :---------- | :---------: | ------:|
@@ -22,8 +22,5 @@ toc = true
 | Paragraph   | Text        | Texte  |
 ___
 [^1]: pieds de page ligne 1
-[^2]: pieds de page ligne 2
 ...
 [*Biodiversity* **PMC**](https://biodiversitypmc.sibils.org/)
-
-+++
