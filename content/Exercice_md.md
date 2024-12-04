@@ -1,12 +1,12 @@
 +++
-title = "Mortelle Randonnée"
-description = "Un jeu génial"
+title = "Exercice PMC"
+description = "Un exercice pas ouf"
 
 date = 2024-07-22T00:00:00Z
 draft = false
 
 [taxonomies]
-tags = ["Esquive les flèches ou meurs pour l'éternité et au-delà !"]
+tags = ["Galère dans la boue des explications de Ruch"]
 
 [extra]
 toc = true
